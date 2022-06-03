@@ -1,0 +1,1 @@
+Real-time sign language Recognition using MediaPipe and OpenCv
